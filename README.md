@@ -1,5 +1,5 @@
 
-![backgrond new](https://user-images.githubusercontent.com/65457075/223441273-652712a2-b111-4d91-ab07-3bd68b02e4b4.PNG)
+![gitbackground](https://user-images.githubusercontent.com/65457075/223619215-3034128b-193a-4bb9-98d8-73f4c4cc1bb1.PNG)
 
 <h1 align="center">Hi 👋, I'm Himanshu Choudhary</h1>
 <h3 align="center">I can’t wait to be surprised by someone else’s creativity.</h3>
