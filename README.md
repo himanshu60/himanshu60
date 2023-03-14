@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on [Elpolloloco-clone(food-website)](https://effulgent-seahorse-ac4de2.netlify.app/index.html)
 
-- 🤝 My First project [ZEE5-clone(Entertainment)](https://celadon-syrniki-b0f489.netlify.app/index.html)
+- 🤝 My First project [ZEE5-clone(Entertainment)](https://prismatic-raindrop-8d1a7e.netlify.app/)
 
 - 💬 Hobbies *Playing Cricket, etc...*
 
