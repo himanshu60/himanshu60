@@ -17,6 +17,8 @@
 
 - 🤝 My First project [ZEE5-clone(Entertainment)](https://prismatic-raindrop-8d1a7e.netlify.app/)
 
+-  🤝 portfolio (https://himanshu60.github.io/)<a href="https://himanshu60.github.io/" target="blank"></a>
+
 - 💬 Hobbies *Playing Cricket, etc...*
 
 - 📫 How to reach me *baliyanh10@gmail.com*
@@ -24,6 +26,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/himanshu raghuvanshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himanshu raghuvanshi" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
