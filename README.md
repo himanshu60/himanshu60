@@ -2,7 +2,7 @@
 ![gitbackground](https://user-images.githubusercontent.com/65457075/223619215-3034128b-193a-4bb9-98d8-73f4c4cc1bb1.PNG)
 
 <h1 align="center">Hi 👋, I'm Himanshu Choudhary</h1>
-<h3 align="center">I can’t wait to be surprised by someone else’s creativity.</h3>
+<h3 align="center">I can’t wait to be surprised by someone else  creativity.</h3>
 <img align="right" alt="gif_codding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu60&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu60" /> </p>
