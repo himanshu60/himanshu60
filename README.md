@@ -1,5 +1,6 @@
 
-![github-back](https://github.com/himanshu60/himanshu60/assets/65457075/5921480b-e364-4610-ab5d-69d17edd34c4)
+
+![Himanshu choudhary](https://github.com/himanshu60/himanshu60/assets/65457075/8b7f213a-0eef-4782-afaa-821615090c74)
 
 
 <h1 align="center">Hi 👋, I'm Himanshu Choudhary</h1>
