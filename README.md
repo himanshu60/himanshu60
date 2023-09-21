@@ -11,15 +11,15 @@
 
 
 
-- 🔭 I’m currently working on *Backend*
+- 🔭 I’m currently working on the backend*
 
-- 🌱 I’m currently learning *JS,HTML,CSS,MONGODB,etc...*
+- 🌱 I’m currently learning *JS, HTML, CSS,MongoDB,Node.js, etc...*
 
-- 👯 I’m looking to collaborate on [Elpolloloco-clone(food-website)](https://effulgent-seahorse-ac4de2.netlify.app/index.html)
+- 👯 I’m looking to collaborate on [Elpolloloco-clone-food-website](https://effulgent-seahorse-ac4de2.netlify.app/index.html)
 
-- 🤝 My First project [ZEE5-clone(Entertainment)](https://prismatic-raindrop-8d1a7e.netlify.app/)
+- 🤝 My First project [ZEE5-clone-Entertainment](https://prismatic-raindrop-8d1a7e.netlify.app/)
 
--  🤝 portfolio (https://himanshu60.github.io/)<a href="https://himanshu60.github.io/" target="blank"></a>
+-  🤝 portfolio https://himanshu60.github.io/ <a href="https://himanshu60.github.io/" target="blank"></a>
 
 - 💬 Hobbies *Playing Cricket, etc...*
 
