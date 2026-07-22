@@ -58,25 +58,38 @@ features** with secure authentication and role-based access control.
 
 ### 🚀 Featured Projects
 
-**[PostAgent](https://github.com/himanshu60) — Autonomous LinkedIn Content SaaS**
+**[PostAgent](https://github.com/himanshu60/PostAgent) — Autonomous LinkedIn Content SaaS** · [Live Demo](https://postagent-9fl6.onrender.com/)
 Multi-tenant SaaS in **Go** that researches trending topics, generates on-brand LinkedIn posts with
 AI images, and auto-publishes on a schedule. Features "Sign in with LinkedIn" OAuth, per-user data
 isolation, a self-healing cron scheduler, and a pluggable LLM/image pipeline (Gemini, OpenRouter,
 Ollama). Containerized with Docker, deployed on Render.
 
-**[Click & Collect](https://github.com/himanshu60/smiling-desk-5826) — Full-Stack E-Commerce**
-E-commerce app (Node/Express/MongoDB + Bootstrap 5) with JWT auth, product search/filter/sort,
-cart, and a responsive premium UI. Deployed as a single Render service with security hardening
-(helmet, rate-limiting, input sanitization). · [Live Demo](https://clickcollect-shop.onrender.com)
+**[Hangout](https://github.com/himanshu60/spry-smash-650) — Real-Time Chat App** · [Live Demo](https://spry-smash-650.onrender.com/)
+Online communication platform with live text messaging over **WebSockets / Socket.io**, built on
+Node.js and MongoDB with a clean, responsive UI.
+
+**[Click & Collect](https://github.com/himanshu60/smiling-desk-5826) — Full-Stack E-Commerce** · [Live Demo](https://clickcollect-shop.onrender.com/)
+E-commerce app (Node/Express/MongoDB + **Bootstrap 5**) with JWT auth, product search/filter/sort,
+a user-scoped cart, and a responsive premium UI. Deployed as a single Render service with security
+hardening (helmet, rate-limiting, input sanitization).
+
+**[Hair Salon Booking](https://github.com/himanshu60/past-comparison-1722) — Appointment System** · [Live Demo](https://classy-sunburst-efb9f4.netlify.app/)
+Salon website to browse services and book appointments, powered by a **Node.js / Express / MongoDB**
+REST API.
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=himanshu60&show_icons=true&hide_border=true&theme=default" height="160" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu60&layout=compact&hide_border=true" height="160" alt="Top languages"/>
+  <img src="https://komarev.com/ghpvc/?username=himanshu60&color=2874f0&style=flat&label=Profile+Views" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/himanshu60?label=Followers&style=social" alt="Followers"/>
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=himanshu60&show_icons=true&hide_border=true&count_private=true&cache_seconds=86400" height="150" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu60&layout=compact&hide_border=true&cache_seconds=86400&langs_count=8" height="150" alt="Top languages"/>
+</p>
+<sub align="center">Stat cards are served by the public github-readme-stats instance and may briefly not load during its outages — the badges above always render.</sub>
 
 ---
 
