@@ -1,14 +1,20 @@
-<h1 align="center">Hi, I'm Himanshu Choudhary 👋</h1>
-
+<!-- Animated waving header -->
 <p align="center">
-  <b>Full Stack Software Engineer</b> · 3+ years building scalable SaaS<br/>
-  Angular · Next.js · React · Node.js · Go
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2874F0,100:0B3EA8&height=200&section=header&text=Himanshu%20Choudhary&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Software%20Engineer&descAlignY=56&descSize=18" width="100%" alt="Himanshu Choudhary"/>
+</p>
+
+<!-- Animated typing tagline -->
+<p align="center">
+  <a href="https://himanshu60.github.io">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=700&color=2874F0&center=true&vCenter=true&width=620&lines=Full+Stack+Software+Engineer;3%2B+years+building+scalable+SaaS;Angular+%7C+Next.js+%7C+React;Node.js+%7C+Express+%7C+Go;REST+APIs+%7C+Real-time+%7C+Auth%2FRBAC" alt="Typing tagline"/>
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/himanshu-choudhary"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://himanshu60.github.io"><img src="https://img.shields.io/badge/Portfolio-111827?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-  <a href="mailto:baliyanh10@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://linkedin.com/in/himanshu-choudhary"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://himanshu60.github.io"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="mailto:baliyanh10@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://komarev.com/ghpvc/?username=himanshu60&color=2874f0&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
 
 ---
@@ -82,15 +88,16 @@ REST API.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=himanshu60&color=2874f0&style=flat&label=Profile+Views" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/himanshu60?label=Followers&style=social" alt="Followers"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=himanshu60&show_icons=true&hide_border=true&count_private=true&title_color=2874f0&icon_color=2874f0&cache_seconds=86400" height="160" alt="GitHub stats"/>
+  <img src="https://streak-stats.demolab.com?user=himanshu60&hide_border=true&ring=2874f0&fire=fb641b&currStreakLabel=2874f0" height="160" alt="Streak"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=himanshu60&show_icons=true&hide_border=true&count_private=true&cache_seconds=86400" height="150" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu60&layout=compact&hide_border=true&cache_seconds=86400&langs_count=8" height="150" alt="Top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu60&layout=compact&hide_border=true&langs_count=8&title_color=2874f0&cache_seconds=86400" height="150" alt="Top languages"/>
 </p>
-<sub align="center">Stat cards are served by the public github-readme-stats instance and may briefly not load during its outages — the badges above always render.</sub>
+<p align="center"><sub><i>Stat cards are served by public instances and may briefly not load during their outages — the badges above always render.</i></sub></p>
 
----
-
+<!-- Animated wave footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3EA8,100:2874F0&height=120&section=footer" width="100%" alt=""/>
+</p>
 <p align="center"><i>Open to collaboration and interesting problems — feel free to reach out!</i></p>
