@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/himanshu-choudhary"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/himanshu-choudhary-522a05197/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://himanshu60.github.io"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
   <a href="mailto:baliyanh10@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <img src="https://komarev.com/ghpvc/?username=himanshu60&color=2874f0&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
@@ -110,7 +110,7 @@ REST API.
 <!-- Generated daily by a GitHub Action and committed to this repo, so it is served
      directly from GitHub and never gets rate-limited. -->
 <p align="center">
-  <img src="./github-metrics.svg" width="92%" alt="GitHub metrics"/>
+  <img src="./github-metrics.svg" width="78%" alt="GitHub metrics"/>
 </p>
 
 <!-- Animated wave footer -->
