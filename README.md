@@ -33,6 +33,21 @@ features** with secure authentication and role-based access control.
 
 ---
 
+### 💼 Experience
+
+**Clodura.AI** — *Software Engineer* · `Feb 2024 – Present`
+Full-stack development on a B2B sales-intelligence SaaS. Led the migration of **8+ Angular modules
+to Next.js** (~30% faster loads), built a **Twilio dialer** with call tracking & recording, and
+implemented authentication, **role-based access control**, and real-time features
+(WebSockets / Socket.io). Built a reusable UI component library (Next.js, TypeScript, Tailwind, Shadcn).
+
+**Zongovita Pvt. Ltd.** — *Software Developer* · `Sept 2023 – Feb 2024`
+**Sole backend developer** for a company-wide **Attendance Management System** used daily by
+**200+ employees** — designed the entire Node.js architecture from scratch, built REST APIs for
+attendance, leave and reporting, and handled MongoDB schema design with secure auth.
+
+---
+
 ### 🧰 Tech Stack
 
 **Languages**
