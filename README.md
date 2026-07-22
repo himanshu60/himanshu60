@@ -88,13 +88,16 @@ REST API.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=himanshu60&show_icons=true&hide_border=true&count_private=true&title_color=2874f0&icon_color=2874f0&cache_seconds=86400" height="160" alt="GitHub stats"/>
-  <img src="https://streak-stats.demolab.com?user=himanshu60&hide_border=true&ring=2874f0&fire=fb641b&currStreakLabel=2874f0" height="160" alt="Streak"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=himanshu60&theme=default" width="90%" alt="Profile summary"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu60&layout=compact&hide_border=true&langs_count=8&title_color=2874f0&cache_seconds=86400" height="150" alt="Top languages"/>
+  <img src="https://streak-stats.demolab.com?user=himanshu60&hide_border=true&ring=2874f0&fire=fb641b&currStreakLabel=2874f0" height="180" alt="Streak"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=himanshu60&theme=default" height="180" alt="Most used languages"/>
 </p>
-<p align="center"><sub><i>Stat cards are served by public instances and may briefly not load during their outages — the badges above always render.</i></sub></p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=himanshu60&theme=default" height="180" alt="Repos per language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=himanshu60&theme=default&utcOffset=5.5" height="180" alt="Productive time"/>
+</p>
 
 <!-- Animated wave footer -->
 <p align="center">
