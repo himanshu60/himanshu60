@@ -1,41 +1,83 @@
+<h1 align="center">Hi, I'm Himanshu Choudhary 👋</h1>
 
-
-![Himanshu choudhary](https://github.com/himanshu60/himanshu60/assets/65457075/8b7f213a-0eef-4782-afaa-821615090c74)
-
-
-<h1 align="center">Hi 👋, I'm Himanshu Choudhary</h1>
-<h3 align="center">I can’t wait to be surprised by someone else  creativity.</h3>
-<img align="right" alt="gif_codding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu60&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu60" /> </p>
-
-
-
-- 🔭 I’m currently working on the backend*
-
-- 🌱 I’m currently learning *JS, HTML, CSS,MongoDB,Node.js, etc...*
-
-- 👯 I’m looking to collaborate on [Elpolloloco-clone-food-website](https://effulgent-seahorse-ac4de2.netlify.app/index.html)
-
-- 🤝 My First project [ZEE5-clone-Entertainment](https://prismatic-raindrop-8d1a7e.netlify.app/)
-
--  🤝 portfolio https://himanshu60.github.io/ <a href="https://himanshu60.github.io/" target="blank"></a>
-
-- 💬 Hobbies *Playing Cricket, etc...*
-
-- 📫 How to reach me *baliyanh10@gmail.com*
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/himanshu raghuvanshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himanshu raghuvanshi" height="30" width="40" /></a>
-
+<p align="center">
+  <b>Full Stack Software Engineer</b> · 3+ years building scalable SaaS<br/>
+  Angular · Next.js · React · Node.js · Go
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://linkedin.com/in/himanshu-choudhary"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://himanshu60.github.io"><img src="https://img.shields.io/badge/Portfolio-111827?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="mailto:baliyanh10@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshu60&show_icons=true&locale=en&layout=compact" alt="himanshu60" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshu60&show_icons=true&locale=en" alt="himanshu60" /></p>
+### 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu60&" alt="himanshu60" /></p>
+Software Engineer with **3+ years of experience** building scalable SaaS applications. I specialize in
+migrating enterprise apps from **Angular → Next.js**, designing **REST APIs**, and building **real-time
+features** with secure authentication and role-based access control.
+
+- 🔭 Currently a **Software Engineer at Clodura.AI**, working across the full stack.
+- ⚡ Migrated **8+ Angular modules to Next.js**, cutting load times by **~30%**.
+- 🛠️ Sole backend owner of an internal system used daily by **200+ employees**.
+- 📡 Real-time features with **WebSockets / Socket.io** and **Twilio** integrations.
+- 🌱 Exploring **Go** for high-performance backend services and AI/LLM pipelines.
+
+---
+
+### 🧰 Tech Stack
+
+**Languages**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+
+**Frontend**
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat&logo=redux&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+
+**Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socketdotio&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+
+**Databases & Tools**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+### 🚀 Featured Projects
+
+**[PostAgent](https://github.com/himanshu60) — Autonomous LinkedIn Content SaaS**
+Multi-tenant SaaS in **Go** that researches trending topics, generates on-brand LinkedIn posts with
+AI images, and auto-publishes on a schedule. Features "Sign in with LinkedIn" OAuth, per-user data
+isolation, a self-healing cron scheduler, and a pluggable LLM/image pipeline (Gemini, OpenRouter,
+Ollama). Containerized with Docker, deployed on Render.
+
+**[Click & Collect](https://github.com/himanshu60/smiling-desk-5826) — Full-Stack E-Commerce**
+E-commerce app (Node/Express/MongoDB + Bootstrap 5) with JWT auth, product search/filter/sort,
+cart, and a responsive premium UI. Deployed as a single Render service with security hardening
+(helmet, rate-limiting, input sanitization). · [Live Demo](https://clickcollect-shop.onrender.com)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=himanshu60&show_icons=true&hide_border=true&theme=default" height="160" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu60&layout=compact&hide_border=true" height="160" alt="Top languages"/>
+</p>
+
+---
+
+<p align="center"><i>Open to collaboration and interesting problems — feel free to reach out!</i></p>
