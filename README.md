@@ -87,16 +87,15 @@ REST API.
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=himanshu60&theme=default" width="90%" alt="Profile summary"/>
-</p>
+<!-- Streak card (scrapes public contribution graph — reliable) -->
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=himanshu60&hide_border=true&ring=2874f0&fire=fb641b&currStreakLabel=2874f0" height="180" alt="Streak"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=himanshu60&theme=default" height="180" alt="Most used languages"/>
 </p>
+
+<!-- Generated daily by a GitHub Action and committed to this repo, so it is served
+     directly from GitHub and never gets rate-limited. -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=himanshu60&theme=default" height="180" alt="Repos per language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=himanshu60&theme=default&utcOffset=5.5" height="180" alt="Productive time"/>
+  <img src="./github-metrics.svg" width="92%" alt="GitHub metrics"/>
 </p>
 
 <!-- Animated wave footer -->
